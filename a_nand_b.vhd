@@ -1,0 +1,15 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all; 
+
+ENTITY a_nand_b IS
+PORT( 
+  i1 : IN STD_LOGIC; 
+  i2 : IN STD_LOGIC;
+  y : OUT STD_LOGIC
+); 
+END ; 
+
+ARCHITECTURE dataflow OF a_nand_b IS 
+BEGIN 
+  y <= i1 NAND i2;
+END dataflow; 

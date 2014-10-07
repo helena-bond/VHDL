@@ -1,0 +1,379 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dc:/program files (x86)/Modeltech_pe_edu_10.3c/examples
+Ea_nand_b
+Z0 w1411673385
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Helena/Student/VHDL
+Z4 8C:/Users/Helena/Student/VHDL/a_nand_b.vhd
+Z5 FC:/Users/Helena/Student/VHDL/a_nand_b.vhd
+l0
+L4
+VLcTB_NHC]EZYP]a>eRKVg2
+!s100 LjWUHNgm[W0eCa<8MIZQ71
+Z6 OP;C;10.3c;59
+32
+Z7 !s110 1411673711
+!i10b 1
+Z8 !s108 1411673711.007000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Helena/Student/VHDL/a_nand_b.vhd|
+Z10 !s107 C:/Users/Helena/Student/VHDL/a_nand_b.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Adataflow
+R1
+R2
+Z13 DEx4 work 8 a_nand_b 0 22 LcTB_NHC]EZYP]a>eRKVg2
+l13
+L12
+V<`;j0O<cZll9g7YhA`Lef1
+!s100 9j:Rf2G;0zEmTO:3[dLHn3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ebcd_2_bar
+Z14 w1412705554
+R1
+R2
+R3
+Z15 8C:/Users/Helena/Student/VHDL/bcd_2_bar.vhd
+Z16 FC:/Users/Helena/Student/VHDL/bcd_2_bar.vhd
+l0
+L4
+VC0;0NjMm;TdmaDNgND:2z2
+!s100 ab:8RdO[Pkf<fh[ADMon;2
+R6
+32
+Z17 !s110 1412708402
+!i10b 1
+Z18 !s108 1412708402.268000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Helena/Student/VHDL/bcd_2_bar.vhd|
+Z20 !s107 C:/Users/Helena/Student/VHDL/bcd_2_bar.vhd|
+!i113 1
+R11
+R12
+Aconditional_dont
+R1
+R2
+Z21 DEx4 work 9 bcd_2_bar 0 22 C0;0NjMm;TdmaDNgND:2z2
+l63
+L62
+V2ekWnTg6bOY<LL00h`3[L2
+!s100 B>VVmhB2D1?mXLC::>jEh2
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12
+Aconditional_off
+R1
+R2
+R21
+l47
+L46
+VI17l>VliMQ98`BeRLho761
+!s100 IQX<:j:IZ9m]Wo:J4BMK_1
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12
+Aselected_dont
+R1
+R2
+R21
+l30
+L29
+VN:SDLAXR5Pa:^4DMkCn@Q1
+!s100 1Lj`JTg@I2AZRn7fE48B01
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12
+Aselected_off
+R1
+R2
+R21
+l13
+L12
+VbTdYioR=_3HfDkkmRRgh@2
+!s100 1ize<]:l1<I6ELD^LonYU0
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12
+Ebcd_2_bar_testbench
+Z22 w1412709724
+Z23 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z24 8C:/Users/Helena/Student/VHDL/bcd_2_bar_testbench.vhd
+Z25 FC:/Users/Helena/Student/VHDL/bcd_2_bar_testbench.vhd
+l0
+L5
+VU=IDLQ3>hNF3zL<d18eO^1
+!s100 5>[zXIYaIFDJ8?Uf[C?<^2
+R6
+32
+Z26 !s110 1412709733
+!i10b 1
+Z27 !s108 1412709733.688000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Helena/Student/VHDL/bcd_2_bar_testbench.vhd|
+Z29 !s107 C:/Users/Helena/Student/VHDL/bcd_2_bar_testbench.vhd|
+!i113 1
+R11
+R12
+Atb
+R21
+R23
+R1
+R2
+Z30 DEx4 work 19 bcd_2_bar_testbench 0 22 U=IDLQ3>hNF3zL<d18eO^1
+l13
+L8
+V;NCVNNeJWzTm03mX;Jh=f2
+!s100 Xc7e9P:0d]hclQ@W[<_eQ3
+R6
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R11
+R12
+Emultiplexer_2_1
+Z31 w1411716179
+R1
+R2
+R3
+Z32 8C:/Users/Helena/Student/VHDL/multiplexer_2_1.vhd
+Z33 FC:/Users/Helena/Student/VHDL/multiplexer_2_1.vhd
+l0
+L4
+VVX]O^2nhZ7FA1PGNm;]>01
+!s100 mViXc<nl[48zN84fT1F:n3
+R6
+31
+Z34 !s110 1411716183
+!i10b 1
+Z35 !s108 1411716183.958000
+Z36 !s90 -reportprogress|300|-work|work|-93|-explicit|-stats=none|C:/Users/Helena/Student/VHDL/multiplexer_2_1.vhd|
+Z37 !s107 C:/Users/Helena/Student/VHDL/multiplexer_2_1.vhd|
+!i113 1
+Z38 o-work work -93 -explicit -O0
+R12
+Astructural
+R13
+Z39 DEx4 work 12 non_a_nand_b 0 22 ;358ZCiOdRMKLlie1hCSA0
+R1
+R2
+Z40 DEx4 work 15 multiplexer_2_1 0 22 VX]O^2nhZ7FA1PGNm;]>01
+l36
+L34
+VX9Z3a9K_G0V3=C8W<dGeP2
+!s100 24X]md<`mKd>CQ]bzcDOo1
+R6
+31
+Z41 !s110 1411716184
+!i10b 1
+R35
+R36
+R37
+!i113 1
+R38
+R12
+Abehavioral
+R1
+R2
+R40
+l23
+L22
+VOU0cOLZbeLnWkGl@OelHm0
+!s100 RXP=B3HWFd63db5Rf4?R>1
+R6
+31
+R41
+!i10b 1
+R35
+R36
+R37
+!i113 1
+R38
+R12
+Adataflow
+R1
+R2
+R40
+l15
+L13
+VhWjh@j9S0KaNV`5GV2a<I3
+!s100 PP@]<Q>oBj=cZ=hfi=SzJ2
+R6
+31
+R34
+!i10b 1
+R35
+R36
+R37
+!i113 1
+R38
+R12
+Emultiplexer_2_1_testbench
+Z42 w1411715974
+R1
+R2
+R3
+Z43 8C:/Users/Helena/Student/VHDL/multiplexer_2_1_testbench.vhd
+Z44 FC:/Users/Helena/Student/VHDL/multiplexer_2_1_testbench.vhd
+l0
+L4
+V4PTFnOml:bCF9]PX7e]mC1
+!s100 WmZdi5a9KoiXoKFm;Q8`i2
+R6
+32
+Z45 !s110 1411716003
+!i10b 1
+Z46 !s108 1411716003.555000
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Helena/Student/VHDL/multiplexer_2_1_testbench.vhd|
+Z48 !s107 C:/Users/Helena/Student/VHDL/multiplexer_2_1_testbench.vhd|
+!i113 1
+R11
+R12
+Atb
+R40
+R1
+R2
+DEx4 work 25 multiplexer_2_1_testbench 0 22 4PTFnOml:bCF9]PX7e]mC1
+l10
+L7
+V1:DK_ZXhfdEP08ez2lA0P3
+!s100 [XahiQfI>I:Ak0iAeF^><2
+R6
+32
+R45
+!i10b 1
+R46
+R47
+R48
+!i113 1
+R11
+R12
+Enand_gate
+Z49 w1411576482
+R1
+R2
+R3
+Z50 8C:/Users/Helena/Student/VHDL/prepup.vhd
+Z51 FC:/Users/Helena/Student/VHDL/prepup.vhd
+l0
+L4
+VAc1Cja>NV?_04Mo7NlTVG0
+!s100 =ol9Udf5m^oRcaz>Ie23O0
+R6
+32
+Z52 !s110 1411576485
+!i10b 1
+Z53 !s108 1411576485.118000
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Helena/Student/VHDL/prepup.vhd|
+Z55 !s107 C:/Users/Helena/Student/VHDL/prepup.vhd|
+!i113 1
+R11
+R12
+Amodel
+R1
+R2
+DEx4 work 9 nand_gate 0 22 Ac1Cja>NV?_04Mo7NlTVG0
+l13
+L12
+VI91HDa[_nF>aNi=PmQnC61
+!s100 DcD^PJAZ_MmgZW:FUe?`]2
+R6
+32
+R52
+!i10b 1
+R53
+R54
+R55
+!i113 1
+R11
+R12
+Enon_a_nand_b
+Z56 w1411672781
+R1
+R2
+R3
+Z57 8C:/Users/Helena/Student/VHDL/non_a_nand_b.vhd
+Z58 FC:/Users/Helena/Student/VHDL/non_a_nand_b.vhd
+l0
+L4
+V;358ZCiOdRMKLlie1hCSA0
+!s100 OJ;6JKUWRz7Ug4Pg:2Lei2
+R6
+32
+Z59 !s110 1411672792
+!i10b 1
+Z60 !s108 1411672792.902000
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Helena/Student/VHDL/non_a_nand_b.vhd|
+Z62 !s107 C:/Users/Helena/Student/VHDL/non_a_nand_b.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+R39
+l14
+L12
+VcPKSUZTW6OZXT;ThXjfdf1
+!s100 J:32HU5MT_Ye>Hd4;5m>[0
+R6
+32
+R59
+!i10b 1
+R60
+R61
+R62
+!i113 1
+R11
+R12

@@ -1,0 +1,38 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all; 
+
+ENTITY multiplexer_2_1 IS
+PORT( 
+  a : IN STD_LOGIC; 
+  b : IN STD_LOGIC;
+  s : IN STD_LOGIC; 
+  o : OUT STD_LOGIC
+); 
+END multiplexer_2_1; 
+
+ARCHITECTURE dataflow OF multiplexer_2_1 IS 
+  SIGNAL i1, i2, i3: STD_LOGIC;
+BEGIN 
+  --o <= a WHEN s='0' ELSE b;
+  i1 <= NOT s;
+  i2 <= i1 NAND a;
+  i3 <= s NAND b;
+  o <= i2 NAND i3;
+END dataflow; 
+
+ARCHITECTURE behavioral OF multiplexer_2_1 IS
+BEGIN
+  multiplexer_2_1_behave: PROCESS(a, b, s)
+  BEGIN
+    CASE s IS
+      WHEN '0' => o <= a;
+      WHEN '1' => o <= b;
+      WHEN OTHERS => NULL;
+    END CASE;
+  END PROCESS;
+END behavioral;
+
+ARCHITECTURE behavioral OF multiplexer_2_1 IS
+BEGIN
+
+END;
