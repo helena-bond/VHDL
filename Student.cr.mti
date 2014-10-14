@@ -1,12 +1,4 @@
-C:/Users/Helena/Student/VHDL/non_a_nand_b.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Helena/Student/VHDL/non_a_nand_b.vhd
-Model Technology ModelSim PE Student Edition vcom 10.3c Compiler 2014.07 Jul 19 2014
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity non_a_nand_b
--- Compiling architecture dataflow of non_a_nand_b
-
-} {} {}} C:/Users/Helena/Student/VHDL/multiplexer_2_1.vhd {1 {vcom -work work -93 -explicit -stats=none C:/Users/Helena/Student/VHDL/multiplexer_2_1.vhd
+C:/Users/Helena/Student/VHDL/multiplexer_2_1.vhd {1 {vcom -work work -93 -explicit -stats=none C:/Users/Helena/Student/VHDL/multiplexer_2_1.vhd
 Model Technology ModelSim PE Student Edition vcom 10.3c Compiler 2014.07 Jul 19 2014
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -20,19 +12,13 @@ Model Technology ModelSim PE Student Edition vcom 10.3c Compiler 2014.07 Jul 19 
 -- Loading entity non_a_nand_b
 -- Loading entity a_nand_b
 
-} {} {}} C:/Users/Helena/Student/VHDL/bcd_2_bar.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Helena/Student/VHDL/bcd_2_bar.vhd
+} {} {}} C:/Users/Helena/Student/VHDL/non_a_nand_b.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Helena/Student/VHDL/non_a_nand_b.vhd
 Model Technology ModelSim PE Student Edition vcom 10.3c Compiler 2014.07 Jul 19 2014
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
--- Compiling entity bcd_2_bar
--- Compiling architecture selected_off of bcd_2_bar
--- Compiling architecture selected_dont of bcd_2_bar
--- Loading entity bcd_2_bar
--- Compiling architecture conditional_off of bcd_2_bar
--- Loading entity bcd_2_bar
--- Compiling architecture conditional_dont of bcd_2_bar
--- Loading entity bcd_2_bar
+-- Compiling entity non_a_nand_b
+-- Compiling architecture dataflow of non_a_nand_b
 
 } {} {}} C:/Users/Helena/Student/VHDL/a_nand_b.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Helena/Student/VHDL/a_nand_b.vhd
 Model Technology ModelSim PE Student Edition vcom 10.3c Compiler 2014.07 Jul 19 2014

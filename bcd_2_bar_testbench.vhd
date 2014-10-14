@@ -34,7 +34,7 @@ BEGIN
         end if;
         wait for 10 ns;
         if i < 9 then
-          bar_graph_check(8-i) <= '0';
+          bar_graph_check(i) <= '0';
         else
           bar_graph_check <= "---------";
         end if;
